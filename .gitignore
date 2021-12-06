@@ -4,11 +4,11 @@
 TODO*.*
 *.pptx
 *.pdf
-Makefile
-.gitignore
-.clang-tidy
 LICENSE
-*DEBUG
+Makefile
+/.gitignore
+/.clang-tidy
+*Debug
 
 ################################
 ########### FOLDERS ############
