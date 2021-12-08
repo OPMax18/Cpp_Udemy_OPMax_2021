@@ -1,0 +1,19 @@
+#include "game.h"
+
+int main()
+{
+    bool repeat = true;
+
+    while (repeat)
+    {
+
+        game();
+
+        std::cout << "Play again (0=No, 1=Yes) : \n ";
+        std::cin >> repeat;
+
+        system("clear");
+    }
+
+    return 0;
+}
