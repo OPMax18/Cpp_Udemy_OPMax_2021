@@ -1,0 +1,4 @@
+make build
+make check
+
+// comment in line 15 (//delete[] arr;) in main.cc
